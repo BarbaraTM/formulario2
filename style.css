@@ -1,4 +1,9 @@
-body {
+main {
     margin-left: 750px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
